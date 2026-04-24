@@ -51,8 +51,5 @@ AI played a significant role as a **productivity multiplier** throughout the dev
 
 Given more time, I would implement the following enhancements:
 
-1. **Dynamic Content API**: Integrate a CMS (like Contentful or Sanity) or a backend API to manage the testimonials, FAQs, and program listings dynamically without touching the code.
-2. **Advanced Performance Optimization**: Implement image optimization pipelines for all assets and fine-tune the Turbopack build configurations for even faster load times.
-3. **Comprehensive Testing**: Add E2E tests using Playwright and unit tests for critical components like the navigation and form validation.
-4. **Enhanced Interactivity**: Add more complex animations, such as a full-page scroll-snap experience or interactive data visualizations for the "Stats" section.
-5. **A/B Testing Integration**: Set up an infrastructure to test different CTA variations and headlines to optimize the conversion rate.
+1. **Dynamic Content API**: Integrate a backend API to manage the testimonials, FAQs, and program listings dynamically without touching the code.
+2. **SEO Optimization**: Further enhance the SEO by implementing dynamic meta tags for every section and improving the schema markup for better search engine visibility.
